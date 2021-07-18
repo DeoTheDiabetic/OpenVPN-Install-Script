@@ -5,7 +5,7 @@ Installation
 
 Run the script and follow the assistant:
 
-wget https://github.com/DeoTheDiabetic/OpenVPN-Install-Script/blob/main/openvpn-install.sh -O openvpn-install.sh && bash openvpn-install.sh
+wget https://github.com/DeoTheDiabetic/OpenVPN-Install-Script/blob/4611b7ddc8528ee82619af6718392875f485cedc/openvpn-install.sh -O openvpn-install.sh && bash openvpn-install.sh
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 I want to run my own VPN but don't have a server for that
